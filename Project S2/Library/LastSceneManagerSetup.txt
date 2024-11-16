@@ -3,7 +3,11 @@ sceneSetups:
   isLoaded: 0
   isActive: 0
   isSubScene: 0
-- path: Assets/Scenes/SceneBeber.unity
+- path: Assets/Scenes/SceneFirstPersonMovement.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/3rdPersonMovemement.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
